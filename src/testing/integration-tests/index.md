@@ -56,7 +56,7 @@ Tests written with the `integration_test` package can:
 **Migrating from flutter_driver**
 
 Existing projects using `flutter_driver` can be migrated to
-`integration_test` by following the [Migrating from flutter_drive][]
+`integration_test` by following the [Migrating from flutter_driver][]
 guide.
 
 ## Project setup
@@ -259,6 +259,6 @@ from the command line.
 [`integration_test`]: {{site.repo.flutter}}/tree/main/packages/integration_test#integration_test
 [integration_test usage]: {{site.repo.flutter}}/tree/main/packages/integration_test#usage
 [iOS Device Testing]: {{site.repo.flutter}}/tree/main/packages/integration_test#ios-device-testing
-[Migrating from flutter_drive]: {{site.url}}/testing/integration-tests/migration
+[Migrating from flutter_driver]: {{site.url}}/testing/integration-tests/migration
 [Running Flutter driver tests with web]: {{site.repo.flutter}}/wiki/Running-Flutter-Driver-tests-with-Web
 [widget tests]: {{site.url}}/testing#widget-tests
